@@ -32,6 +32,6 @@ Undeploy the Archive
 
 To undeploy the archive, shut down server
 
-test
+Test
 --------------------
 There are two kinds of tests, one is to use unittest in the project and run it. The other is type in ip address after turning on the server.
